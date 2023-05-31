@@ -334,7 +334,7 @@ span{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url(img/bgimg.webp);
+    background: url(bgimg.webp);
     background-size: cover;
     background-position: center;
     filter: brightness(30%);
